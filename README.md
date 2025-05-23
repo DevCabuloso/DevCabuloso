@@ -23,4 +23,4 @@
 
 >## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=windows,html,css,js,git,vscode,linux,mysql,php,tailwind,TypeScript,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,html,css,js,git,vscode,linux,mysql,php,tailwind,ts,)](https://skillicons.dev)
