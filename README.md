@@ -1,4 +1,4 @@
-## Hello, my name is Karlos Eduardo Nunes de souza!!
+## Hello, my name is Karlos!!
 
 >## Welcome to my profile!!
 
@@ -23,4 +23,4 @@
 
 >## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=windows,html,css,js,git,vscode,linux,mysql,php,tailwind,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,html,css,js,git,vscode,linux,mysql,php,tailwind,TypeScript,)](https://skillicons.dev)
