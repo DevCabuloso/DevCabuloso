@@ -16,8 +16,8 @@
 </picture>
 
 <picture>
-    <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCabuloso&layout=compact&langs_count=10&theme=github_dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCabuloso&layout=compact&langs_count=10">
+    <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCabuloso&layout=compact&langs_count=10&theme=github_dark&hide=html,css,ts,vue,python,java">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCabuloso&layout=compact&langs_count=10&hide=html,css,ts,vue,python,java">
 </picture>
 
 </div>
@@ -26,14 +26,14 @@
 
 > ## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=docker,supabase,windows,html,css,js,git,vscode,linux,mysql,php,tailwind,ts,react,nodejs,windfurf,python,vue,figma,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,supabase,windows,html,css,js,php,git,vscode,linux,mysql,tailwind,ts,react,nodejs,windfurf,python,vue,figma,graphql)](https://skillicons.dev)
 
 ---
 
 > ## Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karlos-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil)  
-[![Instagram](https://img.shields.io/badge/Instagram-Karlos-purple?logo=instagram&style=for-the-badge)](https://www.instagram.com/seu-perfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karlos-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/karlos-nunes-128097306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-Karlos-purple?logo=instagram&style=for-the-badge)](https://www.instagram.com/okarlos.nunes?igsh=MWd1NzNyYTJ6djBoeA==)  
 
 ---
 
@@ -41,12 +41,12 @@
 
 I’m a tech enthusiast and always exploring **new languages, frameworks, and tools**.  
 I like **clean code**, **automation**, and learning **full-stack development**.  
-Currently improving skills in **React, Node.js, TypeScript, Docker, Supabase**, and more.  
+Currently improving skills in **React, Node.js, TypeScript, Docker, Supabase, JS, PHP**, and more.  
 I also enjoy **cycling long distances**, volunteering, and exploring new technologies.  
 
 ---
 
 > ## Fun Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCabuloso&layout=compact&langs_count=10&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCabuloso&layout=compact&langs_count=10&hide=html,css,ts,vue,python,java)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevCabuloso&show_icons=true&theme=radical&include_all_commits=true)
