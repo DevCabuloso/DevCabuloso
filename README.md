@@ -26,7 +26,7 @@
 
 > ## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=docker,supabase,windows,html,css,js,php,git,vscode,linux,mysql,tailwind,ts,react,nodejs,windfurf,python,vue,figma,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,supabase,windows,html,css,js,php,git,vscode,linux,mysql,tailwind,ts,react,nodejs,windfurf,vue,figma)](https://skillicons.dev)
 
 ---
 
