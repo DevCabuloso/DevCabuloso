@@ -46,7 +46,4 @@ I also enjoy **cycling long distances**, volunteering, and exploring new technol
 
 ---
 
-> ## Fun Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCabuloso&layout=compact&langs_count=10&hide=html,css,ts,vue,python,java)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevCabuloso&show_icons=true&theme=radical&include_all_commits=true)
