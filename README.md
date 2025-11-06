@@ -41,7 +41,7 @@
 
 I’m a tech enthusiast and always exploring **new languages, frameworks, and tools**.  
 I like **clean code**, **automation**, and learning **full-stack development**.  
-Currently improving skills in **React, Node.js, TypeScript, Docker, Supabase, JS, PHP**, and more.  
+Currently improving skills in **Node.js, Docker, Supabase, JS, PHP**, and more.  
 I also enjoy **cycling long distances**, volunteering, and exploring new technologies.  
 
 ---
